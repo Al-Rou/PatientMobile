@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "MAPD713 - F2021 - Group 4 - Milestone 4 - Patient Data REST API(v5)",
   "main": "index.js",
-  "author": "Walter E. Sancho",
+  "author": "Ali Roudak",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.3.4",
